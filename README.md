@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

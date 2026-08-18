@@ -18,10 +18,10 @@ public:
         if(s[i] != s[j]){
             return ispalindrome(s,i+1,j) || ispalindrome(s,i,j-1);
 
-        }else {
+        }
             i++;
             j--;            
-        }
+        
       }
       return true;  
     }

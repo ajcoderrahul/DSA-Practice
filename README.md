@@ -12,6 +12,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +80,9 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->

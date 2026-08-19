@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -26,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -43,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -58,6 +61,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers

@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
@@ -107,4 +109,8 @@
 | ------- |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

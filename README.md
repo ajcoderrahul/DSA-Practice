@@ -14,6 +14,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -102,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

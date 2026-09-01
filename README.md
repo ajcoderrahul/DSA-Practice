@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

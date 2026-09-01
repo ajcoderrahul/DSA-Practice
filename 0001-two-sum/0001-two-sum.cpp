@@ -10,7 +10,7 @@ public:
                 
                 if(mp.find(need) != mp.end()  )
                 {
-                    return {mp[need],i};
+                    return {i,mp[need]};
                 }
                 mp[nums[i]]= i;
 

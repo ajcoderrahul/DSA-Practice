@@ -39,6 +39,7 @@
 | [0015-3sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0647-palindromic-substrings) |
@@ -137,4 +140,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

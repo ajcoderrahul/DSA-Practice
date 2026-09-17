@@ -43,6 +43,7 @@
 | [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
+| [0485-max-consecutive-ones](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |

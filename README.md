@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 ## Quicksort
 |  |

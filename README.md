@@ -65,6 +65,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 ## Game Theory
@@ -146,6 +148,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

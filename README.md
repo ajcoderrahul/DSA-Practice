@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
@@ -160,5 +162,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

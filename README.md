@@ -26,6 +26,7 @@
 | [0917-reverse-only-letters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |

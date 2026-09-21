@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0015-3sum) |
@@ -56,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -119,6 +121,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |

@@ -8,8 +8,6 @@ public:
             i++;
             j--;
         }
-        for(int i = 0;i<=j;i++){
-            cout<<s[i];
-        }
+        
     }
 };

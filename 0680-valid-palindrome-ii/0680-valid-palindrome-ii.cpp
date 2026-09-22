@@ -3,12 +3,12 @@ public:
 
     bool ispalindrome(string& s,int i,int j){
         while(i<j){
-            if(s[i] != s[j]){
-                return false;}
+            if(s[i] != s[j])
+                return false;
                 i++;
-                j--;
-            
-        }return true;
+                j--;            
+        }
+        return true;
     }
 
     bool validPalindrome(string s) {

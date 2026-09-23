@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -175,4 +176,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

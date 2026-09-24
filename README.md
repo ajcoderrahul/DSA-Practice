@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -108,6 +110,7 @@
 | [0015-3sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |

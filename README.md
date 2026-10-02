@@ -58,6 +58,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -73,6 +74,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |

@@ -60,6 +60,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Math
 |  |
 | ------- |

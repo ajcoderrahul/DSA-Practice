@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -49,6 +50,7 @@
 | [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -142,6 +145,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -204,4 +208,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

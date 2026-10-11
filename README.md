@@ -131,6 +131,7 @@
 | [0647-palindromic-substrings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0917-reverse-only-letters) |
 ## Enumeration
 |  |
@@ -208,6 +209,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
 |  |
 | ------- |

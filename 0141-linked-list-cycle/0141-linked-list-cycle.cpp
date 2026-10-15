@@ -13,7 +13,7 @@ public:
         return false;
        } 
        ListNode* slow = head;
-       ListNode* fast = head;
+       ListNode* fast = head->next;
        while(slow != NULL && fast != NULL){
         fast = fast->next;
         if(fast != NULL){

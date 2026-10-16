@@ -24,14 +24,17 @@ public:
         
        }
         if(slow == fast){
-           ListNode* temp = head;
-           while(temp != slow){
-            temp = temp->next;
-            slow = slow->next;
-           }
-           return temp;
-        }
+           slow  = head;
+           
 
+           
+        
+        while(slow != fast){
+            slow = slow->next;
+            fast =fast->next;
+        }
+        return slow;
+       }
        }
        return NULL;
     }

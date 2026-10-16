@@ -65,6 +65,7 @@
 | [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
+| [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -230,4 +233,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

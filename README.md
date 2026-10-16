@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## String
@@ -56,6 +57,7 @@
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -76,6 +78,7 @@
 | [0035-search-insert-position](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -90,6 +93,7 @@
 | [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
@@ -116,6 +120,7 @@
 | [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -183,6 +188,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |

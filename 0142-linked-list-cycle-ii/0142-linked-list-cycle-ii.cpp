@@ -19,16 +19,13 @@ public:
         fast = fast->next;
         if(fast != NULL){
             fast = fast->next;
-            slow = slow->next;
-            
-        
+            slow = slow->next;       
        }
         if(slow == fast){
            slow  = head;
-           
-
-           
         
+        
+             
         while(slow != fast){
             slow = slow->next;
             fast =fast->next;
@@ -37,5 +34,7 @@ public:
        }
        }
        return NULL;
-    }
+    } 
+       
+    
 };

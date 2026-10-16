@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -126,6 +127,7 @@
 | [0075-sort-colors](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -212,6 +214,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
@@ -226,4 +229,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

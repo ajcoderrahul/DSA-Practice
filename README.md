@@ -56,6 +56,7 @@
 | [0169-majority-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@
 | [0069-sqrtx](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0507-perfect-number) |
@@ -151,6 +153,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
@@ -246,4 +249,20 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

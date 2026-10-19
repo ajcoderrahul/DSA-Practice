@@ -68,6 +68,7 @@
 | [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -86,6 +87,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers

@@ -10,38 +10,40 @@
  */
 class Solution {
 public:
-    
+    int length(ListNode* head) {
+        int count = 0;
+        ListNode* temp = head;
+        while (temp != NULL) {
+            temp = temp->next;
+            count++;
+        }
+        return count;
+    }
+
     ListNode* reverseKGroup(ListNode* head, int k) {
-        
-        if(head == NULL || k <= 1)return head;
+        int n = length(head);
+        if (head == NULL || n < k) return head;
 
-        ListNode dummy(0);
-        dummy.next = head;
-        ListNode* previous = &dummy;
-        while(true){
-            ListNode* temp = previous;
-            for(int i = 0;i<k & temp != NULL;i++){
-                temp = temp->next;
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        ListNode* forward = NULL;
+        int count = 0;
 
-            }
-            if(!temp ) break;
-        ListNode* start = previous->next;
-        ListNode* nextstart = temp->next;
-        
-        ListNode* curr = start;
-        ListNode* prev = nextstart;
-        
-        
-        while(curr != nextstart){
-            ListNode* forward = curr->next;
+        // 1. Reverse the first k nodes
+        while (curr != NULL && count < k) {
+            forward = curr->next;
             curr->next = prev;
-            prev= curr;
+            prev = curr;
             curr = forward;
-           
+            count++;
         }
-        previous->next = temp;
-        previous = start;
+
+        // 2. Recursively reverse the remaining list and connect
+        if (forward != NULL) {
+            head->next = reverseKGroup(forward, k);
         }
-        return dummy.next;
+
+        // 3. 'prev' is the new head of this reversed group
+        return prev;
     }
 };

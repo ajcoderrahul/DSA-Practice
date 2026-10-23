@@ -70,6 +70,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -202,6 +203,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |

@@ -31,6 +31,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -105,6 +106,7 @@
 | [0509-fibonacci-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0877-stone-game) |
+| [1903-largest-odd-number-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3024-type-of-triangle](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajcoderrahul/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -191,6 +193,7 @@
 | [0011-container-with-most-water](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/ajcoderrahul/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |

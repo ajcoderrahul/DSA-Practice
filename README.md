@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
@@ -58,6 +59,7 @@
 | [0179-largest-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +84,7 @@
 | [0035-search-insert-position](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -235,6 +238,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ajcoderrahul/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 ## Newton's Method
 |  |

@@ -1,0 +1,9 @@
+# Submission History — 2. Add Two Numbers
+
+**Difficulty:** Medium
+**Topics:** Linked List, Math, Recursion
+**Problem:** https://leetcode.com/problems/add-two-numbers/
+
+| # | Date | Language | Status | Runtime | Memory | File |
+|---|------|----------|--------|---------|--------|------|
+| 1 | 2026-11-12 12:33 | C++ | ✅ Accepted | 2 ms (52.0116%) | 77.1 MB (37.61979999999997%) | [view](./2026-11-12_12-33_cpp_accepted.md) |
